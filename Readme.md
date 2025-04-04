@@ -1,6 +1,6 @@
 # 🎙️ Real-Time Voice Translator (Google STT + GPT-4o)
 
-> **영어 음성을 실시간으로 인식하고 자연스러운 한국어로 번역해주는 Streamlit 기반 앱**  
+> **영어 음성을 실시간으로 인식하고 자연스러운 한국어로 번역해주는 Streamlit 기반 웹**  
 > Real-time English speech recognition and translation into fluent Korean using Google STT + GPT-4o.
 
 ![alt text](image.png)
